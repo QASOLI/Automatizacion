@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Monto (0 meses) 0.00Alia 0.00</name>
+   <tag></tag>
+   <elementGuidId>e2ad5bf9-547b-4fd8-be6e-e845ade78809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box.box-default > div.box-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementosOfertas']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02af9818-61f3-4b27-a0dc-2f5a282d23df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-body</value>
+      <webElementGuid>011049c5-5e14-4eac-a696-af324855eb73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monto (0 meses)$ 0.00Alia$ 0.00</value>
+      <webElementGuid>a20cb9d6-a6ee-489f-85d9-c59df36a21ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementosOfertas&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;box box-default&quot;]/div[@class=&quot;box-body&quot;]</value>
+      <webElementGuid>6dc14d2d-0573-4534-891d-be4be087cc6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementosOfertas']/div/div/div[2]</value>
+      <webElementGuid>774f98b0-1048-4cd5-b6ec-0b3945c7ac60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empaquetado'])[1]/following::div[2]</value>
+      <webElementGuid>c36c79e9-89c6-42f8-996b-6a3eb359a655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar Oferta'])[1]/following::div[7]</value>
+      <webElementGuid>1a9f98cd-91ca-49e1-b738-2c33e20d7af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div[2]</value>
+      <webElementGuid>1b23e899-e653-4ee3-a8fa-a04e6543bb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Monto (0 meses)$ 0.00Alia$ 0.00' or . = 'Monto (0 meses)$ 0.00Alia$ 0.00')]</value>
+      <webElementGuid>d506b38d-fffb-4261-9fba-5abd1f4ebf3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

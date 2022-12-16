@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UniCrdito InmediatoMonto (0 meses) 0.00</name>
+   <tag></tag>
+   <elementGuidId>4ccc5092-6737-4a86-932e-192e057952d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='elementosOfertas']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17233b0c-aabd-432c-9f95-300cd343fa83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box box-default</value>
+      <webElementGuid>facfe04f-d215-4a99-8624-e57025bf95cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UniCrédito InmediatoMonto (0 meses)$ 0.00  </value>
+      <webElementGuid>85b6fd78-4795-4787-8403-6ce7927a7879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;elementosOfertas&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;box box-default&quot;]</value>
+      <webElementGuid>4afc2a72-3869-421c-bd8f-cb71bf39ebe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='elementosOfertas']/div[2]/div</value>
+      <webElementGuid>f207198d-7b6e-4042-876b-22f77b253d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$ 0.00'])[2]/following::div[2]</value>
+      <webElementGuid>040f24f5-9316-4945-9d23-0b9fd0de25b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alia'])[1]/following::div[2]</value>
+      <webElementGuid>51e63864-0e97-4bf2-91ce-7f038daacfe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div</value>
+      <webElementGuid>8038968c-34c1-4ef4-83ec-bd27bba2cb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UniCrédito InmediatoMonto (0 meses)$ 0.00  ' or . = 'UniCrédito InmediatoMonto (0 meses)$ 0.00  ')]</value>
+      <webElementGuid>0488775e-1826-4078-b4a8-2d1b2f4987f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

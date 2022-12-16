@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continuar</name>
+   <tag></tag>
+   <elementGuidId>9a039a0b-0d99-44b5-8528-b8dc326aaf81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-message/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-flat-button.mat-button-base.mat-primary.cdk-focused.cdk-program-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b3b7f2d-bbbb-493c-8318-edda7120ee9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>ffdd6eab-b277-46d8-96ea-f5b726e6a381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>7b0d1ef0-6ce0-491a-882e-f2a928325682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-message[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;text-center flex-column align-items-center justify-content-center p-5&quot;]/div[@class=&quot;mt-4 text-center&quot;]/button[@class=&quot;mat-flat-button mat-button-base mat-primary cdk-focused cdk-program-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>2f553305-6daf-4a41-9bfa-ece310bb1824</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-message/div/div[2]/button/span</value>
+      <webElementGuid>0fd544a7-6d96-43d1-969f-f3db7650fd94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar'])[1]/following::span[2]</value>
+      <webElementGuid>697cb23a-c565-4457-9994-6aa5f9b0081a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::span[4]</value>
+      <webElementGuid>9f8046d2-09aa-4fad-879c-25b4c33fa62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button/span</value>
+      <webElementGuid>269eb0a3-4341-4b4d-8585-f7a62bb6fa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>8ab0ee49-d067-4190-8820-464a22b4f99a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

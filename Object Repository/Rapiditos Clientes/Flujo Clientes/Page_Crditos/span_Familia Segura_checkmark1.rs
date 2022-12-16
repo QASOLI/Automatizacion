@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Familia Segura_checkmark1</name>
+   <tag></tag>
+   <elementGuidId>5eec0fa6-1126-4dfe-917e-dcbcbaad7cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='SelSeg']/div/div/div[2]/div[2]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e1de516-b8d9-44c6-b222-18a82fb68f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark1</value>
+      <webElementGuid>4a2699d1-adb6-4b2d-9152-7c96502fd3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SelSeg&quot;)/div[@class=&quot;containerPrincipal&quot;]/div[@class=&quot;polaroid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-xs-12&quot;]/div[1]/div[@class=&quot;panel-heading  text-center&quot;]/label[@class=&quot;container&quot;]/span[@class=&quot;checkmark1&quot;]</value>
+      <webElementGuid>8084ffaf-0d81-40ce-a1c6-f07c57d5da3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Rapiditos Clientes/Flujo Clientes/Page_Crditos/iframe</value>
+      <webElementGuid>3701ca5a-8893-4b4c-a3ca-b9d66fec8c75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='SelSeg']/div/div/div[2]/div[2]/div/div/label/span</value>
+      <webElementGuid>1fccf911-8097-4af9-b1de-6558ef1e52c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>5a29ce94-b2e4-4e75-b3e0-6757b78d5b9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

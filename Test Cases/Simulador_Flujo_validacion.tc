@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simulador_Flujo_validacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>259ccec7-7313-4a2f-85e9-af0435b57285</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e0bf4a1-9536-40c4-8feb-ced251b35abb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e0bf4a1-9536-40c4-8feb-ced251b35abb</id>
+      <masked>false</masked>
+      <name>identificacion</name>
+   </variable>
+</TestCaseEntity>

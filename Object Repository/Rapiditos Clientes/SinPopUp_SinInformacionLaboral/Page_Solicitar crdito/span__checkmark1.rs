@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__checkmark1</name>
+   <tag></tag>
+   <elementGuidId>3e433eef-621d-4b38-8657-2d5423e88872</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='global']/form/div/div[4]/div/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-1.col-md-1.col-sm-1.col.col-xs-2 > label.containerI > span.checkmark1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f97cb794-79ac-4f66-961a-c27ba9358cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark1</value>
+      <webElementGuid>ec8722f3-772a-4cb8-86b3-1c9ca76e0366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global&quot;)/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;containerPrincipal&quot;]/div[@class=&quot;row labelGLNegro&quot;]/div[@class=&quot;panel-info panel espacio text-justify&quot;]/div[@class=&quot;row espacio&quot;]/div[@class=&quot;col-lg-1 col-md-1 col-sm-1 col col-xs-2&quot;]/label[@class=&quot;containerI&quot;]/span[@class=&quot;checkmark1&quot;]</value>
+      <webElementGuid>04591956-ea63-46eb-b409-2b393502ecfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Rapiditos Clientes/SinPopUp_SinInformacionLaboral/Page_Solicitar crdito/iframe</value>
+      <webElementGuid>3cfbbdee-86e0-4d4b-99cf-d692f74aecb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global']/form/div/div[4]/div/div[2]/div/label/span</value>
+      <webElementGuid>9ded8a79-1a1d-4daa-bb23-844138ed09c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span</value>
+      <webElementGuid>40e2bf56-0f20-468b-bc8c-066c9ac9b12d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

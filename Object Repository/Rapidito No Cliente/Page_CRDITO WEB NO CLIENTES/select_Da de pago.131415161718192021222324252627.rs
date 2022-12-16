@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Da de pago.131415161718192021222324252627</name>
+   <tag></tag>
+   <elementGuidId>80137630-e85c-4f7b-b59a-b9cee9adbb41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='FechaDiaPagoSeleccionado']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group > #FechaDiaPagoSeleccionado</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c23bc35a-6803-4536-a7d1-ef575db93c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>341a3d62-0d45-470f-81d2-ff655189b5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FechaDiaPagoSeleccionado</value>
+      <webElementGuid>989adf43-b092-4e27-aa80-5dd9a7272f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FechaDiaPagoSeleccionado</value>
+      <webElementGuid>b810b76f-4933-4649-bb2a-d48956487a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>1bba6145-eaed-4b57-9c16-7b028262f20d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Día de pago...
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+</value>
+      <webElementGuid>a20d59d7-fdf5-401c-b7c4-907527dce9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FrmOfertaCliente&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 p-0&quot;]/div[@class=&quot;card px-3 pt-0 pb-0 mt-0 mb-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mx-0&quot;]/fieldset[1]/div[@class=&quot;form-card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 mt-2&quot;]/div[@class=&quot;form-group&quot;]/select[@id=&quot;FechaDiaPagoSeleccionado&quot;]</value>
+      <webElementGuid>32c685e9-0ee1-42a1-9b5b-3d0589d191ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='FechaDiaPagoSeleccionado']</value>
+      <webElementGuid>d7963d3f-2d23-4bc3-b58a-9270bdbd9c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FrmOfertaCliente']/div/div/div/div/div/fieldset/div/div[8]/div/div/select</value>
+      <webElementGuid>f0731a53-8f97-4bc1-867b-949f57d26018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escoge el día de pago de tu cuota:'])[1]/following::select[1]</value>
+      <webElementGuid>c5184c62-ad6b-4ec7-85e7-057d9d5b4562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puedes modificar según tu capacidad de pago'])[1]/following::select[1]</value>
+      <webElementGuid>027d9f62-e5c8-4420-8076-f689b2ca35ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATRÁS'])[1]/preceding::select[1]</value>
+      <webElementGuid>a281421a-1010-4c8d-8e33-b2252b511d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTINUAR'])[1]/preceding::select[1]</value>
+      <webElementGuid>17d0fd77-1af9-4137-b3ff-eb2de88eec3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3ea7ee0d-d4d8-43f5-9573-c712b35a6fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'FechaDiaPagoSeleccionado' and @name = 'FechaDiaPagoSeleccionado' and (text() = 'Día de pago...
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+' or . = 'Día de pago...
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+')]</value>
+      <webElementGuid>aa8b833d-ac3d-4c63-a12b-1c0bb6e8d018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

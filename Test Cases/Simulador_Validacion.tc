@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simulador_Validacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abb5067e-0fec-4d63-914a-3323bd89b9e3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5a16774-a3e7-4f14-b662-ab9037e5095a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5a16774-a3e7-4f14-b662-ab9037e5095a</id>
+      <masked>false</masked>
+      <name>identificacion</name>
+   </variable>
+</TestCaseEntity>

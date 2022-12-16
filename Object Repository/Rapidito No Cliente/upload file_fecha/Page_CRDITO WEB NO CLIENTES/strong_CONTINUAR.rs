@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_CONTINUAR</name>
+   <tag></tag>
+   <elementGuidId>009f2d3b-7c64-4b75-b23e-695e6ed30b74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='FrmOfertaCliente']/div/div/div/div/div/fieldset/div/div[9]/div/button[2]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;next&quot;] > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>a442395e-b9c4-405b-b12f-c89c39502791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUAR</value>
+      <webElementGuid>8e5793a9-8e16-424b-b74f-fa3395295c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FrmOfertaCliente&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 p-0&quot;]/div[@class=&quot;card px-3 pt-0 pb-0 mt-0 mb-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mx-0&quot;]/fieldset[1]/div[@class=&quot;form-card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/button[@class=&quot;next action-button btn btn-Solidario&quot;]/strong[1]</value>
+      <webElementGuid>16990a6f-81b7-4cc5-8672-dc78e4e5c4ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FrmOfertaCliente']/div/div/div/div/div/fieldset/div/div[9]/div/button[2]/strong</value>
+      <webElementGuid>30c9f96d-8e11-4f79-b5b9-c3c4834046bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATRÁS'])[1]/following::strong[1]</value>
+      <webElementGuid>54656ddb-d274-4b5f-9af1-61b07e6f33cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tu primera fecha de pago es el 17 de DICIEMBRE del 2022'])[1]/following::strong[2]</value>
+      <webElementGuid>c5dbb29f-99b5-42cc-84a2-19c77d1f00c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERRAR'])[1]/preceding::strong[1]</value>
+      <webElementGuid>02ced900-6b2a-4ce1-bada-c758bd80d032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿ESTÁS SEGURO DE SALIR Y NO OBTENER TU CRÉDITO?'])[1]/preceding::strong[1]</value>
+      <webElementGuid>a9da19a8-79c7-43f5-ad42-73a5add6abce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTINUAR']/parent::*</value>
+      <webElementGuid>9b84fde2-528e-4f62-ba1c-f4ce7295c706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/strong</value>
+      <webElementGuid>a1df5069-07d1-4ffa-bb7f-01d6fbd44976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'CONTINUAR' or . = 'CONTINUAR')]</value>
+      <webElementGuid>868c8f2d-4ea5-460b-a2c8-d1067063e06d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

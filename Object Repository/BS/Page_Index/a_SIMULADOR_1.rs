@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SIMULADOR_1</name>
+   <tag></tag>
+   <elementGuidId>accfdd1a-b350-42d2-aa43-f3966445b6a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.treeview-menu > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'SIMULADOR')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5e1586d-7413-4b72-b66f-3cb7d9171840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/SimuladorEnPunta/Simulador/GenerarSimulacion?Parametros=%5B%7B%22IdPantalla%22%3A0%2C%22NombreParametro%22%3A%22PROCESO%22%2C%22TipoDato%22%3Anull%2C%22Orden%22%3Anull%2C%22ValorEntero%22%3A0%2C%22ValorString%22%3A%22CREACION%22%2C%22ValorBoolean%22%3Afalse%2C%22ValorDecimal%22%3A0%2C%22ValorFecha%22%3A%22%5C%2FDate%28-62135578800000%29%5C%2F%22%7D%5D</value>
+      <webElementGuid>e0d28d18-364f-432e-a769-7feb4bee84ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SIMULADOR</value>
+      <webElementGuid>31152fa4-10ef-4284-993f-ec4cda00a3bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview menu-open&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>dbb1e5ea-4126-46d3-b2d8-f63a686410a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SIMULADOR')]</value>
+      <webElementGuid>65dbc31c-1980-4dab-bf09-edbc020e23cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMULADOR'])[1]/following::a[1]</value>
+      <webElementGuid>a057e5cd-5b21-42b7-8b46-094a40a3580a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MENÚ PRINCIPAL'])[1]/following::a[2]</value>
+      <webElementGuid>1a43a9d2-625b-4558-8aeb-88c3f43b3bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MODIFICAR OFERTA'])[1]/preceding::a[1]</value>
+      <webElementGuid>d4951910-4af8-47a3-9d35-84b5279d576a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Activity'])[1]/preceding::a[4]</value>
+      <webElementGuid>4d151007-d2f7-4e6e-8eee-54163c1a784c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/SimuladorEnPunta/Simulador/GenerarSimulacion?Parametros=%5B%7B%22IdPantalla%22%3A0%2C%22NombreParametro%22%3A%22PROCESO%22%2C%22TipoDato%22%3Anull%2C%22Orden%22%3Anull%2C%22ValorEntero%22%3A0%2C%22ValorString%22%3A%22CREACION%22%2C%22ValorBoolean%22%3Afalse%2C%22ValorDecimal%22%3A0%2C%22ValorFecha%22%3A%22%5C%2FDate%28-62135578800000%29%5C%2F%22%7D%5D')]</value>
+      <webElementGuid>291ed137-029d-4583-ae1f-92ef452eba8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>30abaf09-dba2-41f3-bb11-5201b94eac1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/SimuladorEnPunta/Simulador/GenerarSimulacion?Parametros=%5B%7B%22IdPantalla%22%3A0%2C%22NombreParametro%22%3A%22PROCESO%22%2C%22TipoDato%22%3Anull%2C%22Orden%22%3Anull%2C%22ValorEntero%22%3A0%2C%22ValorString%22%3A%22CREACION%22%2C%22ValorBoolean%22%3Afalse%2C%22ValorDecimal%22%3A0%2C%22ValorFecha%22%3A%22%5C%2FDate%28-62135578800000%29%5C%2F%22%7D%5D' and (text() = ' SIMULADOR' or . = ' SIMULADOR')]</value>
+      <webElementGuid>b7800620-6d96-4dc7-8d49-584e02eff559</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

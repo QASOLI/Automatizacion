@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cliente con usuario pero sin contraseña</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f39930d3-bba6-4d90-9ce6-149ca10e769a</testCaseGuid>
+</TestCaseEntity>

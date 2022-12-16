@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ESTAS MS CERCA DE OBTENER TU CRDITO_btn btn-Solidario</name>
+   <tag></tag>
+   <elementGuidId>c845b373-d1e0-4001-8f1a-6a54fe481b84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-Solidario</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='LO ENTIENDO']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5d7c5233-b6a1-4d6f-8895-b7c63371bfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89825e5b-9c40-46c1-910f-5c1905bd7a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-Solidario</value>
+      <webElementGuid>191d43bf-bda0-4589-9eb8-8eda661c3d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>location.href='https://www.banco-solidario.com/';</value>
+      <webElementGuid>afa09ad9-da0e-4df1-ba2c-30bc1b18ca4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>LO ENTIENDO</value>
+      <webElementGuid>fd6704b5-086f-4d5e-afe6-7d0bc6952845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;msform&quot;)/div[@class=&quot;form-card&quot;]/input[@class=&quot;btn btn-Solidario&quot;]</value>
+      <webElementGuid>1ea6285d-59e9-49f8-a2c3-8b5dbc6fa577</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='LO ENTIENDO']</value>
+      <webElementGuid>24516df0-ba3c-49fc-8e4d-8ae67fd171be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='msform']/div/input</value>
+      <webElementGuid>62462347-1f98-43b4-b4bd-7ecc8423893b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>351b390f-d747-4618-949a-8b7a8782c981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>3f794dd0-8f5e-49af-9464-bc6880d1673c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

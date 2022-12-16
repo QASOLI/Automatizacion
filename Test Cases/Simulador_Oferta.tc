@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simulador_Oferta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3890f126-5376-4c79-96f3-7091db88141e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef2be4f2-0464-4d54-9a9b-9088d699ff5b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef2be4f2-0464-4d54-9a9b-9088d699ff5b</id>
+      <masked>false</masked>
+      <name>identificacion</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Simulador En Punta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc812fb6-d8a7-46af-9a6c-e82528bf0f05</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a5b64e7-5ba1-4f3a-8222-b2bde447daac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a5b64e7-5ba1-4f3a-8222-b2bde447daac</id>
+      <masked>false</masked>
+      <name>identificacion</name>
+   </variable>
+</TestCaseEntity>
