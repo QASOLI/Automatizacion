@@ -41,7 +41,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0702487166'</initValue>
+      <initValue>'0602203366'</initValue>
       <name>UsuarioBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0702487166B'</initValue>
+      <initValue>'0602203366B'</initValue>
       <name>NuevoUsuarioBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
