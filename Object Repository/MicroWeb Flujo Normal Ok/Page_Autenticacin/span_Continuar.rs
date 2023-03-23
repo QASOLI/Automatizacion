@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continuar</name>
+   <tag></tag>
+   <elementGuidId>c91ece40-af56-4b35-a69c-69e8ad91f2be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7deeefc1-796d-4447-9d7e-6a2bc29a19b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>1e455188-8110-4d9b-bd91-6052ff1f6e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>1dff5eef-bef2-422e-88cf-d89e27005cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/app-otp[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;container text-center p-4 mat-card ng-star-inserted&quot;]/form[@class=&quot;my-4 ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;mat-flat-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>bcf0ae3b-8636-4a78-9bb4-195c6c8b72fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::span[2]</value>
+      <webElementGuid>cfc8f2c2-5cda-4ce0-936b-82682c26f8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa el código temporal'])[1]/following::span[4]</value>
+      <webElementGuid>82998baa-caf7-4169-94a6-cfe1e10048be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
+      <webElementGuid>a6317063-a7b1-4ba7-a2bb-481b7ee1f2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>7d24fc65-f61f-4928-9b18-7314596052c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>01238b36-b8c8-4d8a-9502-de6bdec72a29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

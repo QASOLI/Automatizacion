@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/Rapiditos Clientes/Clientes_SinUsu
 
 WebUI.verifyTextPresent('Tu usuario y clave han sido registrados exitosamente', false)
 
-WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('Rapiditos Clientes/Pregunta de seguridad/Page_Registro de pregunta de seguridad/span_Cerrar'))
 
 WebUI.verifyTextPresent('Es obligatorio registrar las preguntas de seguridad', false)
 

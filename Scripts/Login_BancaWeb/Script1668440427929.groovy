@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Cliente_cambio_clave/Page_Autent
     GlobalVariable.UsuarioBancaWeb)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Cliente_cambio_clave/Page_Autenticacin/input_Usuario_mat-input-1'), 
-    'hsPFm2cfhkw=')
+    GlobalVariable.ClaveBancaWeb)
 
 WebUI.takeFullPageScreenshot()
 

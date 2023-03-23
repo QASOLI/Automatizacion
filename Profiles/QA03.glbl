@@ -36,17 +36,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://172.19.19.94:8091/bancaweb3.0/login'</initValue>
+      <initValue>'https://bs-autentica.com/bancaweb3.0/login'</initValue>
       <name>URLBANCAWEB</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0702487166'</initValue>
+      <initValue>'0602570434B'</initValue>
       <name>UsuarioBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'1111'</initValue>
+      <initValue>'GYDmRgS5yd5vvbvKzxSMZQ=='</initValue>
       <name>ClaveBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0702487166B'</initValue>
+      <initValue>'0602570434B'</initValue>
       <name>NuevoUsuarioBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -66,12 +66,37 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'1306927433'</initValue>
+      <initValue>'0922660808'</initValue>
       <name>IdentificacionNoCliente</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'25/10/1971'</initValue>
+      <initValue>'11/04/1983'</initValue>
       <name>FechaNacimientoNoCliente</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://172.19.19.94:8091/RenovacionUIWebMicro/MicroCredito/MicroCreditoInternet#no-back-button'</initValue>
+      <name>URLLANDINGMICRO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1307330652'</initValue>
+      <name>IdentificacionMicroapp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1971'</initValue>
+      <name>aniomicro</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'01'</initValue>
+      <name>mesmicro</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'05'</initValue>
+      <name>diamicro</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

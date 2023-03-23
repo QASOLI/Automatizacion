@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continuar</name>
+   <tag></tag>
+   <elementGuidId>e0d96019-acd6-49e6-9566-7e41d16a8b3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Respuesta'])[1]/following::span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c6eb592-71aa-408c-aab0-e2fa3dc60eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>28338953-563b-415f-80b8-c8bb1b153842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>3afd61a6-bea7-4995-ac0c-5f782fffd396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/app-register[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/mat-card[@class=&quot;mat-card ng-star-inserted&quot;]/form[@class=&quot;password-form pl-md-4 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;mr-3 mat-flat-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>25798c95-8a13-4643-a751-92ffdf6af23a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Respuesta'])[1]/following::span[3]</value>
+      <webElementGuid>569bcfe2-a8fc-40ee-a552-93876d61263e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
+      <webElementGuid>fcf32c88-820c-4d7d-b491-647eae639658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>56694689-5afd-4058-9773-57d210e6ea5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>f2fc4a4a-7078-4bfe-afcc-37552ccb6c7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

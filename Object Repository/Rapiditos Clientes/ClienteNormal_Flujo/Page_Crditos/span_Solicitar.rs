@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Solicitar</name>
+   <tag></tag>
+   <elementGuidId>6cd50f40-6824-4c1a-9ecf-a9b65c597f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='RESOLVERLO VALE ORO.'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-flat-button.mat-button-base.mat-primary.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d325c80f-9a79-489b-9236-07af367e4555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>ac5a7044-4fb9-472c-9c46-53762cf59df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitar</value>
+      <webElementGuid>3fa67a34-bf08-4ff2-a344-3a3b943e53e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/app-renew-credits[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/mat-card[@class=&quot;carousel mat-card py-4 mb-4&quot;]/div[@class=&quot;mt-4 text-center&quot;]/button[@class=&quot;mat-flat-button mat-button-base mat-primary cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>72f92bbc-7ffa-4d44-bf12-f5300c4ad64f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESOLVERLO VALE ORO.'])[1]/following::span[2]</value>
+      <webElementGuid>3c17919e-300b-4668-95fc-26eaf36938a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LO NECESITAS, LO TIENES.'])[1]/following::span[2]</value>
+      <webElementGuid>3f19488a-f7d7-411d-8887-4eccaea7cd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi Banco'])[2]/preceding::span[1]</value>
+      <webElementGuid>fa8294c2-5ce3-499a-b6b3-4bbe4c31e342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/preceding::span[2]</value>
+      <webElementGuid>f2738835-de08-4ec1-a1f5-fbbe4da3f1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitar']/parent::*</value>
+      <webElementGuid>7de4f89d-76bd-4e23-b573-222e746d27aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card/div[3]/button/span</value>
+      <webElementGuid>af262300-226c-48a5-aa49-8574d62434b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Solicitar' or . = 'Solicitar')]</value>
+      <webElementGuid>543754bb-6159-49af-828a-f49a67a50af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

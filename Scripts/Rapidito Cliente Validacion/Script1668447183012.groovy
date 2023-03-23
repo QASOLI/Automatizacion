@@ -19,13 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login_BancaWeb'), [:], FailureHandling.STOP_ON_FAILURE)
 
-if (WebUI.verifyTextPresent('Es obligatorio registrar una nueva clave de ingreso segura', false)) {
-    WebUI.callTestCase(findTestCase('Cliente con usuario pero sin contraseña'), [:], FailureHandling.STOP_ON_FAILURE)
-} else if (WebUI.verifyTextPresent('CAMBIO DE USUARIO Y CONTRASEÑA', false)) {
+if (WebUI.verifyTextPresent('CAMBIO DE USUARIO Y CONTRASEÑA', true)) {
     WebUI.callTestCase(findTestCase('Sin usuario y sin contraseña'), [:], FailureHandling.STOP_ON_FAILURE)
+} else if (WebUI.verifyTextPresent('Es obligatorio registrar una nueva clave de ingreso segura', false)) {
+    WebUI.callTestCase(findTestCase('Cliente con usuario pero sin contraseña'), [:], FailureHandling.STOP_ON_FAILURE)
 } else {
-	WebUI.callTestCase(findTestCase('Flujo Clientes normal'), [:], FailureHandling.STOP_ON_FAILURE)
+    WebUI.callTestCase(findTestCase('FlujoClientesNormal_SINOTP'), [:], FailureHandling.STOP_ON_FAILURE)
 }
-
-
 

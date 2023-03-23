@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Plan D_checkmark1</name>
+   <tag></tag>
+   <elementGuidId>03378b06-20c1-4c49-b3f4-ad6bfb1160ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='SelSeg']/div/div[2]/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.checkmark1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50a4b729-315f-4920-8b85-44ff95a592c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark1</value>
+      <webElementGuid>afeae256-3fe5-42f0-814d-9028f32dce80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SelSeg&quot;)/div[@class=&quot;containerPrincipal&quot;]/div[@class=&quot;row espacio&quot;]/div[@class=&quot;col-md-6 col-xs-12&quot;]/div[@class=&quot;TamanioSeguro&quot;]/div[@class=&quot;panel-heading  text-center&quot;]/label[@class=&quot;container&quot;]/span[@class=&quot;checkmark1&quot;]</value>
+      <webElementGuid>9ef50b34-3d4a-463f-8d41-aaa45c28732d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/MicroWeb Flujo Normal Ok/Page_Resumen/iframe</value>
+      <webElementGuid>d5abd96f-f9a1-46ea-9454-2f9c441c009f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='SelSeg']/div/div[2]/div/div/div/label/span</value>
+      <webElementGuid>087e55e1-4040-4131-a752-5a39aa640da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>b6c8f793-3ae5-4836-a795-ebdf80c62931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

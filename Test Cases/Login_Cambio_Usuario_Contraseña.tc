@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Cambio_Usuario_Contraseña</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc1efa55-0e0e-49ee-a55c-0eec66c5dc73</testCaseGuid>
+</TestCaseEntity>
