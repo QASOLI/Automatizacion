@@ -56,7 +56,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0602203366B'</initValue>
+      <initValue>'TOCSEG67'</initValue>
       <name>NuevoUsuarioBancaWeb</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -73,5 +73,40 @@
       <description></description>
       <initValue>'12/10/1984'</initValue>
       <name>FechaNacimientoNoCliente</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Identificación cliente micro web</description>
+      <initValue>'0501566699'</initValue>
+      <name>Identificacion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'&lt;b>\\d{4,6}&lt;/b>'</initValue>
+      <name>expRegG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bs-preprod\\instbdd01'</initValue>
+      <name>BDD_Preprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'UsrQalified'</initValue>
+      <name>UserBDD_Preprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bnliNGRrdkFFSnVta05I'</initValue>
+      <name>ClaveBDD_Preprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'50109'</initValue>
+      <name>PuertoDBB_Preprod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Negocio'</initValue>
+      <name>BaseNegocio</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
